@@ -105,6 +105,9 @@ main {
   width: fit-content;
   height: 100px;
   border-radius: 10px;
+  background: #3cbc8d;
+  border-style: double;
+  border-color: #8b00ff;
 }
 
 .fruit_violet {
@@ -130,6 +133,7 @@ main {
 .fruit__info {
   display: flex;
   justify-content: center;
+  align-items: center;
   flex-direction: column;
   border-radius: 5px;
   background: #fff;
